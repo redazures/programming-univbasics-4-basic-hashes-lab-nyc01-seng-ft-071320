@@ -5,6 +5,11 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  stuff={
+  "mike"=>"law grad",
+  "malc"=>"chaebol",
+  "tony"=>"wangker"
+  }
 end
 
 def pioneer
